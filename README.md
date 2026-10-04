@@ -26,7 +26,10 @@
 ![image](https://raw.githubusercontent.com/smcherepanov02/cypress.js/refs/heads/main/user_data.jpg)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/locators.png)
+![image](https://raw.githubusercontent.com/smcherepanov02/cypress.js/refs/heads/main/main_page.jpg)
+![image](https://raw.githubusercontent.com/smcherepanov02/cypress.js/refs/heads/main/recovery_page.jpg)
+![image](https://raw.githubusercontent.com/smcherepanov02/cypress.js/refs/heads/main/result_page.jpg)
+![image](https://raw.githubusercontent.com/smcherepanov02/cypress.js/refs/heads/main/cypress_bash.jpg)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
